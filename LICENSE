@@ -1,0 +1,36 @@
+Last Light (cyberSlot)
+Copyright (c) 2026 the developer of Last Light. All rights reserved.
+
+This repository is not open source. No licence is granted to anyone.
+
+Without prior written permission from the copyright holder, you may not:
+
+  - use, run, copy, modify, merge, translate, publish, distribute,
+    sublicense or sell this project or any part of it;
+  - use any part of it in another project, product or service,
+    whether commercial or not;
+  - use any part of it to train, fine-tune or evaluate machine-learning
+    models.
+
+"This project" means everything in this repository: source code and
+scripts, tools, game data, story, dialogue and other text, models,
+textures, audio, images and documents.
+
+Third-party material
+
+Some assets in this repository were made by others and stay under their
+own licences. The restrictions above do not apply to them in their
+original form:
+
+  - Poly Haven models and textures (CC0 1.0)
+  - Quaternius Universal Animation Library (CC0 1.0)
+  - MakeHuman / MPFB character assets (CC0 1.0)
+
+Changes made to those assets for this project are covered by the
+restrictions above.
+
+No warranty
+
+This project is provided "as is", without warranty of any kind, express
+or implied. The copyright holder is not liable for any claim, damage or
+other liability arising from it.

@@ -1,0 +1,12 @@
+# Godot 4: the cache folder is rebuilt on every machine. The *.import files next to
+# assets must be committed (they hold import settings and resource ids).
+.godot/
+
+# Python / Blender leftovers
+__pycache__/
+*.pyc
+*.blend1
+
+# Downloaded third-party packs (all CC0, re-downloadable). Two of the zips are
+# 268 MB and 73 MB; GitHub rejects any file over 100 MB.
+third_party/
