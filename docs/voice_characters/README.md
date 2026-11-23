@@ -1,6 +1,6 @@
 # CYBERSLOT — character voice sheets
 
-One sheet per character. Each one says who the character is and gives the lines to record: every line for the story characters and Selina, and five lines for most other characters.
+One sheet per character. Each one says who the character is and gives every line they say in the game. The social-link sheets start with five audition lines.
 
 **The story** (all their lines):
 
@@ -19,12 +19,13 @@ One sheet per character. Each one says who the character is and gives the lines 
 |---|---|---|
 | Bero | [bero.md](bero.md) | 33 |
 | Selina: the shop | [selina_store.md](selina_store.md) | 124 (start with section 1) |
-| Frebby | [frebby.md](frebby.md) | 5 |
-| Potoron | [potoron.md](potoron.md) | 5 |
+| Selina: the social links | [selina_links.md](selina_links.md) | 156 |
+| Frebby (and Arda) | [frebby.md](frebby.md) | 5 audition + 150 |
+| Potoron | [potoron.md](potoron.md) | 5 audition + 136 |
 | Valicia | [valicia.md](valicia.md) | 5 |
-| Keena (working name) | [keena.md](keena.md) | 5 |
-| Feli (working name, not in the game yet) | [feli.md](feli.md) | 5, plus 3 for her mother (a second actor) |
-| Ruta and Kostas (not in the game yet) | [ruta_kostas.md](ruta_kostas.md) | 5 each (two actors) |
+| Keena (working name) | [keena.md](keena.md) | 5 audition + 185 |
+| Feli (working name, not in the game yet) | [feli.md](feli.md) | 5 audition (+3 for her mother) + 194 |
+| Ruta and Kostas (not in the game yet) | [ruta_kostas.md](ruta_kostas.md) | 5 audition each + 215 |
 
 The demo hostess has her own, longer sheet: [VOICE_LINES.md](../VOICE_LINES.md).
 
