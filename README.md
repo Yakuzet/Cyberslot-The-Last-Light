@@ -29,6 +29,15 @@ All money in the game is fictional. There are no real-money purchases or payouts
 
 ![The shop floor on a rainy day](docs/media/shop.png)
 
+## Voice actors
+
+Lines to record, with who says them and how to say them:
+
+- [Selina: the story](docs/voice_characters/selina_story.md)
+- [Selina: the shop](docs/voice_characters/selina_store.md) (start with section 1)
+- [Every character sheet, and the recording format](docs/voice_characters/README.md)
+- [The demo hostess](docs/VOICE_LINES.md)
+
 ## Built with
 
 - [Godot 4.7](https://godotengine.org/) and GDScript
