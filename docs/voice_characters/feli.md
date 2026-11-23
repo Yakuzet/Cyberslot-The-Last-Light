@@ -62,10 +62,11 @@ The German in the rest of her story (not for recording; please just check it):
 | You are the Chef? | Chef | boss |
 | Danke, In Ordnung, Opa, Genau, Hallo, Tschüss, Prost | the same | thanks, all right, grandpa, exactly, hello, bye, cheers |
 | Pünktlich! | pünktlich | on time! |
+| The Chef has right. | Der Chef hat recht. | The boss is right (German word order) |
 | Then we're two. | Dann sind wir schon zwei. | That makes two of us |
 | We had pig! | Schwein gehabt! | We were lucky! |
 | Now I'm blank. | blank sein | I'm broke |
-| Fingerspitzengefühl. The feeling in the tips of your fingers. | Fingerspitzengefühl | a fine touch |
+| Fingerspitzengefühl. | Fingerspitzengefühl | a fine touch (word for word: a feeling in the fingertips) |
 | My handy is dead. | Handy | my mobile phone |
 | Chef, can I become a Moth? | bekommen | Can I get a Moth? (a drink) |
 | That's not a Moth. ...Can I become a real one? | bekommen | Can I get a real one? |
@@ -73,7 +74,7 @@ The German in the rest of her story (not for recording; please just check it):
 | Egal. It's a drink. | egal | Whatever. It's a drink |
 | Not your beer. | Nicht dein Bier. | Not your business |
 | Mist. | Mist | damn (her only curse) |
-| Pechvogel. A bad-luck bird. | Pechvogel | an unlucky person |
+| Pechvogel. | Pechvogel | an unlucky person (word for word: a bad-luck bird) |
 | Can we do a public viewing? | Public Viewing | everybody watching a big screen together (in English it means seeing a dead body, so someone asks "Who died?") |
 | I have the rocket missed. | Ich habe die Rakete verpasst. | I missed the rocket (German word order) |
 | Your old machine gave me an Ohrwurm. ... An ear worm. | Ohrwurm | a song stuck in your head |
