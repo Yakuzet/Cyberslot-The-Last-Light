@@ -1,10 +1,23 @@
 # CYBERSLOT — character voice sheets
 
-One sheet per character. Each one says who the character is and gives the lines to record: five for most characters, and all of her lines for Selina.
+One sheet per character. Each one says who the character is and gives the lines to record: every line for the story characters and Selina, and five lines for most other characters.
+
+**The story** (all their lines):
 
 | Character | Sheet | Lines |
 |---|---|---|
+| The hero (the player's character) | [hero.md](hero.md) | 66 |
+| Courtney | [courtney.md](courtney.md) | 97 |
+| Andrew | [andrew.md](andrew.md) | 81 |
 | Selina: the story | [selina_story.md](selina_story.md) | 60 |
+| Uncle Hüseyin | [huseyin.md](huseyin.md) | 64 |
+| The White Table (the boss and a guard) | [white_table.md](white_table.md) | 10 |
+
+**The shop and the social links:**
+
+| Character | Sheet | Lines |
+|---|---|---|
+| Bero | [bero.md](bero.md) | 33 |
 | Selina: the shop | [selina_store.md](selina_store.md) | 124 (start with section 1) |
 | Frebby | [frebby.md](frebby.md) | 5 |
 | Potoron | [potoron.md](potoron.md) | 5 |
