@@ -91,21 +91,3 @@ Feli's mother is a retired English teacher in Duisburg, in her 60s or 70s. You o
 | `feli_mama_1.wav` | Missed the rocket, Felicitas. Past simple. | Her daughter has just told her something huge, in bad grammar: "I have the rocket missed." | Automatic: her classroom voice, light and quick, not angry and not stern. The teacher corrects Feli, full name and all, the way she said names to a class for thirty years, before the mother has understood what Feli said |
 | `feli_mama_2.wav` | Then it was the best phone call I ever made. | Late in the story. Her daughter is afraid that something Mama once did ruined her life. Mama sees it differently | Quiet and certain. No tears in the voice |
 | `feli_mama_3.wav` | I never waved at the Ring, Feli. I waved at you. | Every night at ten, Mama and Feli wave at the same sky from two countries | Very simple. Nothing performed |
-
-## Casting Call Club block
-
-*Paste under "Supporting roles" in [casting_call_club.md](casting_call_club.md). The general note there ("any natural accent is fine") does not apply to this role.*
-
-### Feli (working name)
-- **Significance:** Supporting
-- **Gender and age:** female, 30s
-- **The role:** a tall, warm welder from Duisburg, Germany, living in a rainy city far from home, with goggles on her head, a tool belt and work boots. Everyone expects a punctual, clever German engineer. She can fix almost anything with her hands, but she is always late, she failed maths three times, and she keeps her money in her boot. She says sorry before anyone asks and laughs at herself first. When people expect a German genius, she plays along with total confidence, and gets caught. A comedy role with one quiet, sad turn: play her as someone who says sorry for small things, so that nobody asks about the big one.
-- **Voice:** warm and quick, with a laugh never far away. Never cute or girlish, and never stern. **This role needs a German accent:** real and warm, with a light flavour of the Ruhr area if you can. Never a movie villain, never "war-film German". She speaks English with a few German words mixed in, and they must sound native, so a native German speaker is best.
-- **Pronunciation:** Feli is said the German way: "FAY-lee", short for Felicitas, "feh-LEE-tsee-tahs". In the audition lines, "Man muss ... sober be. Also, ... bitte" is German word order and German words ("also" means "so", "bitte" means "please"), Quatsch is "KVAHTCH" (nonsense), ja is "YAH" (yes) and Mama is "MAH-mah".
-- **More detail:** [feli.md](feli.md)
-- **Audition lines:**
-  1. Man muss today sober be. Also, no alcohol, bitte. Something like a Bier. *(There is no beer at the bar, not even a Radler. She makes the best of it with great dignity.)*
-  2. Quatsch. In Germany, five minutes early is on time. On time is late. So everybody's late. I'm only honest about it. *(Four hours late, and a man has just shouted "Late? You're German!" at her. Mock-offended, quick, enjoying her own logic.)*
-  3. Thirty-nine degrees. A fever. Fever machines pay. *(Everyone thinks she has a secret system for the slot machines. She doesn't. A doctor's diagnosis, made up on the spot, with total confidence.)*
-  4. Ja, Mama, I become a coffee every morning— ...Get. I get a coffee. *(A video call with her mother, a retired English teacher. Mama corrects her mid-sentence; we don't hear Mama. Bright for the call, then caught out like a pupil.)*
-  5. ...The robot had no mother. That's why it was on time. *(Very quiet. It wants to be a joke, and it doesn't hold.)*

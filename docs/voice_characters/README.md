@@ -28,8 +28,6 @@ One sheet per character. Each one says who the character is and gives the lines 
 
 The demo hostess has her own, longer sheet: [VOICE_LINES.md](../VOICE_LINES.md).
 
-Roles ready to paste into Casting Call Club, for every speaking character: [casting_call_club.md](casting_call_club.md).
-
 ## Recording
 
 Use the same format as the hostess sheet:
