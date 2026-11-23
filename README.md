@@ -34,6 +34,7 @@ Lines to record, with who says them and how to say them:
 - [Selina: the shop](docs/voice_characters/selina_store.md) (start with section 1)
 - [Every character sheet, and the recording format](docs/voice_characters/README.md)
 - [The demo hostess](docs/VOICE_LINES.md)
+- [The characters you meet at the bar: who they are and what happens](docs/CHARACTERS.md) (spoilers)
 
 ## Built with
 
