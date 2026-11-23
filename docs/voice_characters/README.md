@@ -24,6 +24,7 @@ One sheet per character. Each one says who the character is and gives the lines 
 | Valicia | [valicia.md](valicia.md) | 5 |
 | Keena (working name) | [keena.md](keena.md) | 5 |
 | Feli (working name, not in the game yet) | [feli.md](feli.md) | 5, plus 3 for her mother (a second actor) |
+| Ruta and Kostas (not in the game yet) | [ruta_kostas.md](ruta_kostas.md) | 5 each (two actors) |
 
 The demo hostess has her own, longer sheet: [VOICE_LINES.md](../VOICE_LINES.md).
 
